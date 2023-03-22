@@ -1,0 +1,85 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "EJournalContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "EJournalDatabase",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "ejournal.accounts",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.courses",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.groups",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.imports",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.lessons",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.mark_types",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.marks",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.specialties",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.students",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.subjects",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.teachers",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ejournal.user_roles",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "postgres",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
